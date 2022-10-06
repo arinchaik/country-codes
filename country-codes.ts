@@ -1,4 +1,5 @@
 const imgApi = 'https://flagpedia.net/download/api'
+// example `https://flagcdn.com/w20/${option.code.toLowerCase()}.png`
 const countrys = [
   { code: 'AD', label: 'Andorra', phone: '376' },
   { code: 'AE', label: 'United Arab Emirates', phone: '971' },
